@@ -61,7 +61,7 @@ export default function Features() {
     },
     {
       id: 'f4',
-      icon: Icons.Chef',
+      icon: Icons.Chef,
       title: "Chef's Counter",
       description: 'Eight seats facing the flame. Watch every plate leave the pass and trade stories with the kitchen team.',
     },
