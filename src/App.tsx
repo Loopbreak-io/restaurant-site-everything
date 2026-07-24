@@ -9,7 +9,7 @@ import Footer from './components/Footer';
 
 export default function App() {
   return (
-    <div style={{ minHeight: '100vh', background: 'var(--bg)', color: 'var(--fg)' }}>
+    <div style={{ minHeight: '100vh', background: 'var(--bg)', color: 'var(--fg)' }} suppressHydrationWarning>
       <Navbar />
       <Hero />
       <Stats />
